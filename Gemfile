@@ -1,1 +1,2 @@
-gem "github-pages", group: :jekyll_pages
+gem "minimal-mistakes-jekyll"
+source "https://rubygems.org"
