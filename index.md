@@ -1,3 +1,7 @@
+---
+layout: home
+title: "TCA 2018: R in Transportation Data Science"
+---
 ## TCA 2018: R in Transportation Data Science
 
 Large transportation-related data sets are becoming increasingly available to practitioners. Newfound access to these large data sets may outstrip the ability of even savvy data analysts.  The use of R, an open source statistical computing language, can greatly improve an analyst’s productivity and increase their skill set.
