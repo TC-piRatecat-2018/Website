@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "TCA: R in Transportation Data Science"
 title_separator          : "-"
-name                     : 
+name                     :
 description              : "Website for workshop materials"
 url                      : "https://TC-piRatecat-2018.github.io"
 baseurl                  : "/Website"
@@ -266,6 +266,18 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
+      share: true
+      related: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
       share: true
       related: true
