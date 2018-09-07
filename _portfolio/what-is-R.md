@@ -1,5 +1,6 @@
 ---
 title: What is R?
+excerpt: A few reasons to learn R.
 ---
 "R" refers to the programming language and software used to run scripts written in R.
 
