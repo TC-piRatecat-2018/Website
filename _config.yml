@@ -274,7 +274,6 @@ defaults:
       comments: false
       share: true
       related: true
-defaults:
   # _pages
   - scope:
       path: ""
@@ -286,7 +285,6 @@ defaults:
       comments: false
       share: true
       related: true
-defaults:
   # _portfolio
   - scope:
       path: ""
