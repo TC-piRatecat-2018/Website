@@ -3,8 +3,6 @@ layout: home
 title: Agenda
 permalink: /agenda/
 ---
-# Agenda
-
 _9:00 am - 9:45 am_  
 Round table introductions of all participants and instructors. Review workshop agenda.  
 
