@@ -259,7 +259,6 @@ compress_html:
 collections:
   portfolio:
     output: true
-    collections_dir: collections
     permalink: /:collection/:path/
 
 # Defaults
@@ -294,8 +293,5 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: false
+      author_profile: false
       share: true
-      related: true
