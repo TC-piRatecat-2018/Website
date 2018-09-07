@@ -2,8 +2,8 @@
 main:
   - title: "Agenda"
     url: https://TC-piRatecat-2018.github.io/Website/agenda/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Workshop Materials"
+    url: https://TC-piRatecat-2018.github.io/Website/collection/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
