@@ -1,3 +1,9 @@
+---
+layout: default
+title: Agenda
+permalink: /agenda/
+---
+
 # Agenda
 
 |9:00 am - 9:45 am| Round table introductions of all participants and instructors. Review workshop agenda.|
