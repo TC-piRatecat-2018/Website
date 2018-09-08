@@ -1,5 +1,8 @@
-## Learning Objectives
+---
+title: Types of data
+---
 
+## Learning Objectives
 
 ## Data Structures - vectors, matrices, arrays, lists, and data frames
 * Data contained as vectors, matrices, and arrays are homogeneous.
