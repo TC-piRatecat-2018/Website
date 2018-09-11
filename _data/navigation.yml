@@ -4,8 +4,8 @@ main:
     url: https://TC-piRatecat-2018.github.io/Website/agenda/
   - title: "Workshop Materials"
     url: https://TC-piRatecat-2018.github.io/Website/portfolio/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Examples"
+    url: https://TC-piRatecat-2018.github.io/Website/examples/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

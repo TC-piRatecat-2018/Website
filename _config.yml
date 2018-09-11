@@ -23,7 +23,7 @@ description              : "Website for workshop materials"
 url                      : "https://TC-piRatecat-2018.github.io"
 baseurl                  : "/Website"
 repository               : "TC-piRatecat-2018/Website"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Tammy Lee*, Josh Roll^, Kirstin Tufte*"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "* PSU, ^ODOT"
+  bio              : "*PSU, ^ODOT"
   location         :
   email            :
   uri              :
