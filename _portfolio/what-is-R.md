@@ -20,7 +20,7 @@ R is open source and free. These two characteristics are some of the main reason
 R is built for performing statistical analyses and modeling building and has the documentation to prove it, and more recently data visualization packages of R are becoming more sophisticated. These two main functionalities of R allows for a great deal of customization and transparency.
 
 ## What is RStudio?
-RStuiod is an Integrated Development Environment (IDE) for R. It is also an open source free product. It provides a visually organized environment for working with R in addition to providing additional tools that integrate with R (e.g. version control, creating apps or dashboards with RShiny, generating reproducible reports with RMarkdown, writing packages).
+RStudio is an Integrated Development Environment (IDE) for R. It is also an open source free product. It provides a visually organized environment for working with R in addition to providing additional tools that integrate with R (e.g. version control, creating apps or dashboards with RShiny, generating reproducible reports with RMarkdown, writing packages).
 
 ## Recommended Resources
 - The Carpentries: [Data Carpentry](https://datacarpentry.org/), [Software Carpentry](https://software-carpentry.org/)  
