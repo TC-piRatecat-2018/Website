@@ -1,6 +1,5 @@
 ---
 title: Stop, collaborate, and listen: Best practices
-layout: single
 ---
 Even if you're the sole person working on a project that requires cleaning, analyzing, and presenting data, you're not. At a minimum you have your future self to consider:
 

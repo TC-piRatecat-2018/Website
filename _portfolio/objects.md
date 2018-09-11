@@ -1,6 +1,5 @@
 ---
 title: Some common types of data
-layout: single
 ---
 <figure align = "center">
 <img src="https://github.com/TC-piRatecat-2018/Website/tree/master/assets/images/pipe.png" width = "500">
