@@ -23,7 +23,7 @@ description              : "Website for workshop materials"
 url                      : "https://TC-piRatecat-2018.github.io"
 baseurl                  : "/Website"
 repository               : "TC-piRatecat-2018/Website"
-teaser                   : "/assets/images/teaser.jpg"
+teaser                   : #"/assets/images/teaser.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
