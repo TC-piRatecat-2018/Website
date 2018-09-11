@@ -5,7 +5,7 @@ Even if you're the sole person working on a project that requires cleaning, anal
 
 <figure align = "center">
 <img src="https://github.com/TC-piRatecat-2018/Website/tree/master/assets/images/phd052810s.gif">
-</figure?>
+</figure>
 
 At some point everyone struggles with best practices. Particularly with where to start and finding good guidelines to help institute a best practices policy. [Wilson et al. (2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) presented a paper that provides "good enough practices" for the everyday researcher. They provide good guidelines on data management, software, collaboration, project organization, tracking changes, and manuscripts.
 

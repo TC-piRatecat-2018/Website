@@ -3,7 +3,7 @@ title: Some common types of data
 ---
 <figure align = "center">
 <img src="https://github.com/TC-piRatecat-2018/Website/tree/master/assets/images/pipe.png" width = "500">
-</figure?>
+</figure>
 
 ## Objects
 R is an object oriented programming language where you assign things to objects and it is similar to python, S, etc. Objects can be vectors, arrays, matrices, data frames, a single character string, functions, etc.
