@@ -1,11 +1,11 @@
 ---
 title: Some common types of data
 layout: single
-header:
-  teaser: /assets/images/pipes.png
-  overlay_image: /assets/images/pipes.png
-  show_overlay_excerpt: false
 ---
+<figure align = "center">
+<img src="https://github.com/TC-piRatecat-2018/Website/tree/master/assets/images/pipe.png" width = "500">
+</figure?>
+
 ## Objects
 R is an object oriented programming language where you assign things to objects and it is similar to python, S, etc. Objects can be vectors, arrays, matrices, data frames, a single character string, functions, etc.
 
