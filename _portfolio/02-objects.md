@@ -1,7 +1,8 @@
 ---
 title: Some common types of data
+excerpt: Vectors, tibbles, and matrices oh my...
 ---
-![pipe img](https://github.com/TC-piRatecat-2018/Website/tree/master/assets/images/pipe.png)
+![pipe img](/assets/images/pipe.png)
 
 ## Objects
 R is an object oriented programming language where you assign things to objects and it is similar to python, S, etc. Objects can be vectors, arrays, matrices, data frames, a single character string, functions, etc.

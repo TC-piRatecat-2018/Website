@@ -1,9 +1,10 @@
 ---
 title: "Stop, collaborate, and listen: Best practices"
+excerpt: A few resources and guidelines for best practices.
 ---
 Even if you're the sole person working on a project that requires cleaning, analyzing, and presenting data, you're not. At a minimum you have your future self to consider:
 
-![phd comics img](https://github.com/TC-piRatecat-2018/Website/tree/master/assets/images/phd052810s.gif)
+![phd comics img](/assets/images/phd052810s.gif)
 
 At some point everyone struggles with best practices. Particularly with where to start and finding good guidelines to help institute a best practices policy. [Wilson et al. (2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) presented a paper that provides "good enough practices" for the everyday researcher. They provide good guidelines on data management, software, collaboration, project organization, tracking changes, and manuscripts.
 
