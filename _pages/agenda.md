@@ -4,6 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 _9:00 am - 9:45 am_  
+_Meet in room SMSU 294 for the first half of the workshop_
 Round table introductions of all participants and instructors. Review workshop agenda.  
 
 _9:45 am - 10:15 am_  
@@ -11,7 +12,7 @@ Introduction to R and best practices.
 
 _10:15 am - 10:45 am_
 Case study:
-* Bettinardi, Alex, _ODOT_, Strava Data
+* Bettinardi, Alex, _ODOT_, HTML Interactive Visualizer for Travel Model System Results
 
 _10:45 am - 11:00 am_  
 Break  
