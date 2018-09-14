@@ -26,7 +26,7 @@ Introduction to best practices.
 
 _12:00 pm - 12:30 pm_
 Case study:
-- Blanc, Bryan, _Nelson Nygaard_, http://bigtransportation.com/portal/ (work done for ODOT in 2015)  
+- Blanc, Bryan, _Nelson Nygaard_, [Big Transport Data](bigtransportdata.com/portal/) (work done for ODOT in 2015)  
 
 _12:30 pm - 1:30 pm_  
 Lunch  
